@@ -1,0 +1,23 @@
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.houses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.house {
+  border: 1px solid #ccc;
+  padding: 16px;
+  width: calc(33.333% - 32px);
+  box-sizing: border-box;
+}
+
+.house img {
+  width: 100%;
+  height: auto;
+}
+

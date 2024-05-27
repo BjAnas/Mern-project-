@@ -1,0 +1,101 @@
+.home {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #f8f8f8;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .hero button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff5a5f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .featured-listings {
+    margin-top: 50px;
+  }
+  
+  .listing {
+    margin-bottom: 30px;
+  }
+  
+  .listing img {
+    width: 50%;
+    border-radius: 5px;
+  }
+  
+  .listing h3 {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
+  .listing p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .listing button {
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: #ff5a5f;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .explore {
+    margin-top: 50px;
+  }
+  
+  .experience {
+    display: inline-block;
+    width: 300px;
+    margin-right: 20px;
+    vertical-align: top;
+  }
+  
+  .experience img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .experience h3 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  .experience p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .experience button {
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: #ff5a5f;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  

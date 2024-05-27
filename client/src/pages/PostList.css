@@ -1,0 +1,51 @@
+.post-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post-list-container h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.post-list-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list-container li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.post-list-container li h3 {
+  margin: 0 0 10px;
+  color: #007bff;
+}
+
+.post-list-container li p {
+  margin: 0 0 10px;
+  color: #555;
+}
+
+.post-list-container li button {
+  padding: 5px 10px;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.post-list-container li button:hover {
+  background-color: #c82333;
+}

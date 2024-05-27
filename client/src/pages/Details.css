@@ -1,0 +1,21 @@
+.details {
+  max-width: 800px; /* Largeur maximale pour limiter la largeur du contenu */
+  margin: 0 auto; /* Centrer le contenu horizontalement */
+  padding: 20px; /* Ajouter un peu d'espace autour du contenu */
+}
+
+.details h1 {
+  font-size: 24px; /* Taille de la police pour le titre */
+  margin-bottom: 10px; /* Espacement inférieur pour le titre */
+}
+
+.details img {
+  width: 100%; /* Pour s'assurer que l'image s'adapte à la largeur de son conteneur */
+  height: auto; /* Ajuster automatiquement la hauteur en fonction de la largeur */
+  margin-bottom: 20px; /* Espacement inférieur pour l'image */
+}
+
+.details p {
+  font-size: 16px; /* Taille de la police pour le texte */
+  line-height: 1.5; /* Hauteur de ligne pour un meilleur espacement entre les lignes */
+}
